@@ -10,5 +10,5 @@
 <br>
 <br>
 
-<img src="">
-<img src="">
+<img src="https://github.com/Raphael-Angelo/Projeto-We-Care/blob/master/assets/we-care-desk.png?raw=true" width="300px" height="200px">
+<img src="https://github.com/Raphael-Angelo/Projeto-We-Care/blob/master/assets/we-care-mobile.png?raw=true" height="200px">
